@@ -1,14 +1,14 @@
 package entity;
 
 public class BookDb {
-    private Integer bid;
-    private String bookName;
-    private String author;
-    private Integer num;
-    private String press;
-    public Integer tid;
-    private String typeName;
-    public Integer times;
+    private Integer bid;//图书ID
+    private String bookName;//图书名
+    private String author;//作者
+    private Integer num;//图书数量
+    private String press;//出版社
+    public Integer tid;//类别ID
+    private String typeName;//图书类别名
+    public Integer times;//借阅次数
 
 
 

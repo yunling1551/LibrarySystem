@@ -4,8 +4,8 @@ package entity;
  * 图书类别
  */
 public class TypeDb {
-    private Integer tid;
-    private String typeName;
+    private Integer tid;//类别ID
+    private String typeName;//类别名
 
 
     public Integer getTid() {

@@ -3,14 +3,14 @@ package entity;
 import java.util.Date;
 
 public class EvaluateDb {
-    private Integer pid;
-    private Integer uid;
-    private String name;
-    private String account;
-    private String title;
-    private String book;
-    private String content;
-    private Date time;
+    private Integer pid;//评论ID
+    private Integer uid;//用户ID
+    private String name;//用户姓名
+    private String account;//用户账号
+    private String title;//标题
+    private String book;//评论图书
+    private String content;//评论内容
+    private Date time;//评论时间
 
     public Integer getPid() {
         return pid;

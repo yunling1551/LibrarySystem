@@ -6,15 +6,15 @@ import java.util.Date;
  * 借阅历史记录
  */
 public class HistoryDb {
-    private Integer hid;
-    private Integer uid;
-    private String name;
-    private String account;
-    private Integer bid;
-    private String bookName;
-    private Date beginTime;
-    private Date endTime;
-    private Integer status;
+    private Integer hid;//历史记录ID
+    private Integer uid;//用户ID
+    private String name;//用户名
+    private String account;//用户账号
+    private Integer bid;//图书ID
+    private String bookName;//图书名
+    private Date beginTime;//开始时间
+    private Date endTime;//还书时间
+    private Integer status;//图书状态
 
     public Integer getHid() {
         return hid;
