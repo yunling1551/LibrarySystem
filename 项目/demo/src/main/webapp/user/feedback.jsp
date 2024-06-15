@@ -24,7 +24,7 @@
 				<div class="col-lg-12">
 					<div class="panel panel-default bootstrap-admin-no-table-panel">
 						<div class="panel-heading">
-							<div class="text-muted bootstrap-admin-box-title">问题反馈</div>
+							<div class="text-muted bootstrap-admin-box-title">图书评价</div>
 						</div>
 						<div
 								class="bootstrap-admin-no-table-panel-content bootstrap-admin-panel-content collapse in">
@@ -39,7 +39,7 @@
 									</div>
 								</div>
 								<div class="col-lg-8 form-group">
-									<label class="col-lg-4" for="query_bname">问题页面</label>
+									<label class="col-lg-4" for="query_bname">评价的图书</label>
 									<div class="col-lg-12">
 										<input class="form-control" id="bookName" name="book"
 											   type="text" value="" required="required" placeholder="要评价的图书">
@@ -47,7 +47,7 @@
 									</div>
 								</div>
 								<div class="col-lg-8 form-group">
-									<label class="col-lg-4" for="query_bname">问题描述</label>
+									<label class="col-lg-4" for="query_bname">评价内容</label>
 									<div class="col-lg-12">
 											<textarea name="content" required="required" class="form-control" placeholder="请勿超过255个字符"
 													  style="height: 150px;resize: none;"></textarea>

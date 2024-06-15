@@ -26,7 +26,7 @@
 					<div class="col-lg-12">
 						<div class="panel panel-default bootstrap-admin-no-table-panel">
 							<div class="panel-heading">
-								<div class="text-muted bootstrap-admin-box-title">我的反馈</div>
+								<div class="text-muted bootstrap-admin-box-title">我的评价</div>
 							</div>
 						</div>
 					</div>

@@ -62,12 +62,11 @@
 					<div class="col-md-6">
 						<div class="panel panel-default">
 							<div class="panel-heading">
-								<div class="text-muted bootstrap-admin-box-title">热门推荐</div>
+								<div class="text-muted bootstrap-admin-box-title">图书评价</div>
 							</div>
 							<div class="bootstrap-admin-panel-content">
 								<ul>
-									<li>展示每一本书的借阅量，包括图书基本信息</li>
-									<li>可以在当前界面直接借阅，并且可以查询书籍借阅量</li>
+									<li>展示每一本书的评价信息，可以留下你的观点</li>
 								</ul>
 							</div>
 						</div>
@@ -80,33 +79,6 @@
 							<div class="bootstrap-admin-panel-content">
 								<ul>
 									<li>查询借阅历史，借阅时长等具体信息</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-				</div>
-				
-				<div class="row">
-					<div class="col-md-6">
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<div class="text-muted bootstrap-admin-box-title">最佳读者</div>
-							</div>
-							<div class="bootstrap-admin-panel-content">
-								<ul>
-									<li>展示每一位已知读者的借阅量，以及读者的基本信息</li>
-								</ul>
-							</div>
-						</div>
-					</div>
-					<div class="col-md-6">
-						<div class="panel panel-default">
-							<div class="panel-heading">
-								<div class="text-muted bootstrap-admin-box-title">问题反馈</div>
-							</div>
-							<div class="bootstrap-admin-panel-content">
-								<ul>
-									<li>有问题请留下您的联系方式，我们会记录在库并及时反馈</li>
 								</ul>
 							</div>
 						</div>

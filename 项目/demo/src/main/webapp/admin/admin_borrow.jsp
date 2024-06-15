@@ -85,7 +85,7 @@
     function haibook(hid) {
     	con=confirm("是否还书?"); 
     	if(con==true){
-    		location.href = "/books/book?method=borrow&tip=2&show=2&hid="+hid;
+    		location.href = "/books/book?method=backBook&tip=2&show=2&hid="+hid;
     	}
     }
     function addtime(hid,endtime){
